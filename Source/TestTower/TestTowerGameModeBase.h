@@ -13,8 +13,5 @@ UCLASS()
 class TESTTOWER_API ATestTowerGameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
-	
-	
-	
-	
+
 };
