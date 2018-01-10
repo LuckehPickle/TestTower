@@ -1586,174 +1586,191 @@
 "../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 1586
 "../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 1587
 "../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 1588
-"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 1589
-"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 1590
-"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 1591
-"../../../Engine/Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 1592
-"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 1593
-"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 1594
-"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 1595
-"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset" 1596
-"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 1597
-"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 1598
-"C:/Users/Sean/AppData/Local/UnrealEngine/4.18/Saved/Config/Windows/SourceControlSettings.ini" 1599
-"D:/Workspace/Unreal Projects/TestTower/Intermediate/Config/CoalescedSourceConfigs/SourceControlSettings.ini" 1600
-"D:/Workspace/Unreal Projects/TestTower/Saved/Config/Windows/SourceControlSettings.ini" 1601
-"D:/Workspace/Unreal Projects/TestTower/Intermediate/Config/CoalescedSourceConfigs/InternationalizationExport.ini" 1602
-"D:/Workspace/Unreal Projects/TestTower/Intermediate/Config/CoalescedSourceConfigs/TranslationPickerSettings.ini" 1603
-"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 1604
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 1605
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 1606
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 1607
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 1608
-"../../../Engine/Plugins/Media/MediaCompositing/Content/DefaultMediaPlaneMaterial.uasset" 1609
-"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 1610
-"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 1611
-"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 1612
-"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 1613
-"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 1614
-"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 1615
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 1616
-"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 1617
-"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 1618
-"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 1619
-"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 1620
-"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 1621
-"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 1622
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 1623
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 1624
-"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 1625
-"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 1626
-"D:/Workspace/Unreal Projects/TestTower/Intermediate/AssetRegistryCache/311563bb.bin" 1627
-"D:/Workspace/Unreal Projects/TestTower/Content/Maps/FPSMap.umap" 1628
-"D:/Workspace/Unreal Projects/TestTower/Content/Maps/FPSMap_BuiltData.uasset" 1629
-"D:/Workspace/Unreal Projects/TestTower/Intermediate/AssetRegistryCache/c90e3f55.bin" 1630
-"D:/Workspace/Unreal Projects/TestTower/Content/GenericMale_Skeleton.uasset" 1631
-"D:/Workspace/Unreal Projects/TestTower/Content/HeroFPP.uasset" 1632
-"D:/Workspace/Unreal Projects/TestTower/Content/HeroFPP_PhysicsAsset.uasset" 1633
-"D:/Workspace/Unreal Projects/TestTower/Content/WorldGridMaterial.uasset" 1634
-"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 1635
-"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 1636
-"../../../Engine/Content/BasicShapes/Cube.uasset" 1637
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 1638
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 1639
-"../../../Engine/Content/BasicShapes/Cone.uasset" 1640
-"../../../Engine/Content/BasicShapes/Plane.uasset" 1641
-"D:/Workspace/Unreal Projects/TestTower/Intermediate/AssetRegistryCache/30e49709.bin" 1642
-"../../../Engine/Config/HTML5/HTML5Engine.ini" 1643
-"../../../Engine/Content/Tutorial/Foliage/Foliage_Intro_Tutorial.uasset" 1644
-"../../../Engine/Content/Tutorial/Foliage/TutorialAssets/Foliage.uasset" 1645
-"../../../Engine/Content/Tutorial/Foliage/Foliage_Using_The_Tool_Tutorial.uasset" 1646
-"../../../Engine/Content/Tutorial/Foliage/Foliage_Settings_Tutorial.uasset" 1647
-"../../../Engine/Content/Tutorial/Paper2D/SpriteEditorTutorial.uasset" 1648
-"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DSprite_TutorialIcon.uasset" 1649
-"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimEditorWalkThrough.uasset" 1650
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_ShowSkeletalMeshes_40x.uasset" 1651
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/NewBlendSpace1D.uasset" 1652
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/Tutorial_Idle.uasset" 1653
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Skeleton.uasset" 1654
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/Tutorial_Walk_Fwd.uasset" 1655
-"../../../Engine/Content/Tutorial/SubEditors/MaterialEditorTutorial.uasset" 1656
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 1657
-"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintInterfacesEditorOverview.uasset" 1658
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintInterface_64x.uasset" 1659
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Interface.uasset" 1660
-"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 1661
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 1662
-"../../../Engine/Content/Tutorial/SubEditors/StaticMeshEditorTutorial.uasset" 1663
-"../../../Engine/Content/EngineMeshes/Cube.uasset" 1664
-"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uasset" 1665
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_Editor_Preferences_General_40x.uasset" 1666
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 1667
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 1668
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 1669
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 1670
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 1671
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 1672
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 1673
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 1674
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 1675
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 1676
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 1677
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 1678
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 1679
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 1680
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 1681
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 1682
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 1683
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 1684
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 1685
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 1686
-"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 1687
-"D:/Workspace/Unreal Projects/TestTower/Content/GenericMale.uasset" 1688
-"D:/Workspace/Unreal Projects/TestTower/Content/lambert2.uasset" 1689
-"D:/Workspace/Unreal Projects/TestTower/Content/proxy_geo_body_m.uasset" 1690
-"D:/Workspace/Unreal Projects/TestTower/Content/GenericMale_PhysicsAsset.uasset" 1691
-"C:/Users/Sean/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/3/REFL_ENC_0C6693969CB849AE9F4120FF5812F4D3_62B6A6EA4529DF40F580BEAFC0F95DD9_128_1.udd" 1692
-"../../../Engine/Content/EditorResources/EmptyActor.uasset" 1693
-"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 1694
-"C:/Users/Sean/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/7/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_5528A4E24BEA426163CE4D8373467__B1ECEEC73890AF184B4145434AEC41C8C1C390E9.udd" 1695
-"C:/Users/Sean/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_5528A4E24BEA426163CE4D8373467__8DE9087AFF1BE398EE7EE52580A9B0CC10C40B46.udd" 1696
-"C:/Users/Sean/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_5528A4E24BEA426163CE4D8373467__39596790FEEF67B731DC44D38A6D4C868ACCE028.udd" 1697
-"C:/Users/Sean/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/6/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_1745870C44E057638C0D8A8988F71__DC7ABF8B803BA0FED0C4CACD8DB527C38B65E3CD.udd" 1698
-"C:/Users/Sean/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/0/1/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_54F629A845B17B132ABAA6BAC3322A98__A98074C9730BE3A514072548350DC06D49E566EF.udd" 1699
-"C:/Users/Sean/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/5/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_2BEB84F041C2A98B56520A9593759562__FE900C226FCFBFA1D904348BD879ADBC1EB8C2DE.udd" 1700
-"C:/Users/Sean/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/8/6/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_54F629A845B17B132ABAA6BAC3322A98__97DC64E47612CB9A33E90933E755638EB14C2EED.udd" 1701
-"C:/Users/Sean/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/1/5/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_1BC784634741709E4B922996DC5B5FE7_0__E47A4E66EEB3E1DD5818DBCEA6A6D822C27F2EBB.udd" 1702
-"C:/Users/Sean/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/4/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_54F629A845B17B132ABAA6BAC3322A98__55C566857E25A5FAAAA8EFB31466A425B81F47EA.udd" 1703
-"C:/Users/Sean/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/6/0/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_1BC784634741709E4B922996DC5B5FE7_0__D328F8821D0A87CBAC5DC8E69BF40051CB6D2F19.udd" 1704
-"C:/Users/Sean/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/4/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_ACC01C9942EB5FFBA7A75CB2DC687D6A_0__20C5ED8A4BF461293385F70C9703B304B3BC16C5.udd" 1705
-"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 1706
-"C:/Users/Sean/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/9/MATSM_24CFB3A24FF7412DB1277B5C2B5936DE_PCD3D_SM5_7__BC5N_NOCCBN_DEV_SL_DBUF_UN__9BC8DF89E61281BC90C65C7B33980B6D1F8747DE.udd" 1707
-"C:/Users/Sean/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/5/4/MATSM_24CFB3A24FF7412DB1277B5C2B5936DE_PCD3D_SM4_7__BC5N_NOCCBN_DEV_SL_DBUF_UN__C9FFB50DA4F705724FA6F7EE3A3EAC106D397CF3.udd" 1708
-"C:/Users/Sean/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/4/1/MATSM_24CFB3A24FF7412DB1277B5C2B5936DE_PCD3D_SM5_7__BC5N_NOCCBN_DEV_SL_DBUF_UN__015F6FBC0B82D05EB90C44307613BDAB94E03BDA.udd" 1709
-"C:/Users/Sean/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/3/MATSM_24CFB3A24FF7412DB1277B5C2B5936DE_PCD3D_SM4_7__BC5N_NOCCBN_DEV_SL_DBUF_UN__41AAEF0D2A9A719E8234ED8CA8BF2BD1C7B4C71B.udd" 1710
-"C:/Users/Sean/AppData/Local/Temp/UnrealShaderWorkingDir/EE98FAE44B5760905B8A2FB6A90B118B/0/WorkerOutputOnly.out" 1711
-"C:/Users/Sean/AppData/Local/Temp/UnrealShaderWorkingDir/EE98FAE44B5760905B8A2FB6A90B118B/1/WorkerOutputOnly.out" 1712
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 1713
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 1714
-"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 1715
-"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 1716
-"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 1717
-"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 1718
-"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 1719
-"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 1720
-"../../../Engine/Content/EditorResources/BSPVertex.uasset" 1721
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 1722
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 1723
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 1724
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 1725
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 1726
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 1727
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 1728
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 1729
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 1730
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 1731
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 1732
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 1733
-"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 1734
-"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 1735
-"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 1736
-"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 1737
-"../../../Engine/Content/Maps/Entry.umap" 1738
-"../../../Engine/Content/Tutorial/Landscape/Landscape_Manage_Mode.uasset" 1739
-"../../../Engine/Content/Tutorial/Landscape/Landscape_Sculpt_Mode.uasset" 1740
-"../../../Engine/Content/Tutorial/Landscape/Landscape_Painting_Mode.uasset" 1741
-"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimBlueprintEditorWalkthrough.uasset" 1742
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_AnimBlueprint.uasset" 1743
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialCharacter.uasset" 1744
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset" 1745
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Mat.uasset" 1746
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_PhysicsAsset.uasset" 1747
-"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintMacroLibrariesEditorOverview.uasset" 1748
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintMacroLibrary_64x.uasset" 1749
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_MacroLib.uasset" 1750
-"../../../Engine/Content/Tutorial/Paper2D/FlipbookEditorTutorial.uasset" 1751
-"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DFlipbook_TutorialIcon.uasset" 1752
-"../../../Engine/Content/Tutorial/Landscape/LandscapeWalkThrough.uasset" 1753
-"../../../Engine/Content/Tutorial/SubEditors/ParticleSystemEditorTutorial.uasset" 1754
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.uasset" 1755
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody.uasset" 1756
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_SmokeSubUV_8X8.uasset" 1757
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_soft_smoke.uasset" 1758
-"../../../Engine/Content/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview.uasset" 1759
+"../../../Engine/Content/Tutorial/SubEditors/StaticMeshEditorTutorial.uasset" 1589
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 1590
+"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 1591
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 1592
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 1593
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 1594
+"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 1595
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 1596
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset" 1597
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 1598
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 1599
+"C:/Users/Sean/AppData/Local/UnrealEngine/4.18/Saved/Config/Windows/SourceControlSettings.ini" 1600
+"D:/Workspace/Unreal Projects/TestTower/Intermediate/Config/CoalescedSourceConfigs/SourceControlSettings.ini" 1601
+"D:/Workspace/Unreal Projects/TestTower/Saved/Config/Windows/SourceControlSettings.ini" 1602
+"D:/Workspace/Unreal Projects/TestTower/Intermediate/Config/CoalescedSourceConfigs/InternationalizationExport.ini" 1603
+"D:/Workspace/Unreal Projects/TestTower/Intermediate/Config/CoalescedSourceConfigs/TranslationPickerSettings.ini" 1604
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 1605
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 1606
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 1607
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 1608
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 1609
+"../../../Engine/Plugins/Media/MediaCompositing/Content/DefaultMediaPlaneMaterial.uasset" 1610
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 1611
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 1612
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 1613
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 1614
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 1615
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 1616
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 1617
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 1618
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 1619
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 1620
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 1621
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 1622
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 1623
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 1624
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 1625
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 1626
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 1627
+"D:/Workspace/Unreal Projects/TestTower/Intermediate/AssetRegistryCache/311563bb.bin" 1628
+"D:/Workspace/Unreal Projects/TestTower/Content/Maps/FPSMap.umap" 1629
+"D:/Workspace/Unreal Projects/TestTower/Content/Maps/FPSMap_BuiltData.uasset" 1630
+"D:/Workspace/Unreal Projects/TestTower/Intermediate/AssetRegistryCache/c90e3f55.bin" 1631
+"D:/Workspace/Unreal Projects/TestTower/Content/Models/Glass.uasset" 1632
+"D:/Workspace/Unreal Projects/TestTower/Content/Models/House.uasset" 1633
+"D:/Workspace/Unreal Projects/TestTower/Content/Models/lambert2.uasset" 1634
+"D:/Workspace/Unreal Projects/TestTower/Content/Models/proxy_geo_body_m.uasset" 1635
+"D:/Workspace/Unreal Projects/TestTower/Content/Models/Robot.uasset" 1636
+"D:/Workspace/Unreal Projects/TestTower/Content/Models/Roof.uasset" 1637
+"D:/Workspace/Unreal Projects/TestTower/Content/Models/WorldGridMaterial.uasset" 1638
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 1639
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 1640
+"../../../Engine/Content/BasicShapes/Cube.uasset" 1641
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 1642
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 1643
+"../../../Engine/Content/BasicShapes/Cone.uasset" 1644
+"../../../Engine/Content/BasicShapes/Plane.uasset" 1645
+"D:/Workspace/Unreal Projects/TestTower/Intermediate/AssetRegistryCache/30e49709.bin" 1646
+"../../../Engine/Config/HTML5/HTML5Engine.ini" 1647
+"../../../Engine/Content/EngineMeshes/Cube.uasset" 1648
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Intro_Tutorial.uasset" 1649
+"../../../Engine/Content/Tutorial/Foliage/TutorialAssets/Foliage.uasset" 1650
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Using_The_Tool_Tutorial.uasset" 1651
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Settings_Tutorial.uasset" 1652
+"../../../Engine/Content/Tutorial/Paper2D/SpriteEditorTutorial.uasset" 1653
+"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DSprite_TutorialIcon.uasset" 1654
+"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimEditorWalkThrough.uasset" 1655
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_ShowSkeletalMeshes_40x.uasset" 1656
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/NewBlendSpace1D.uasset" 1657
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/Tutorial_Idle.uasset" 1658
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Skeleton.uasset" 1659
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/Tutorial_Walk_Fwd.uasset" 1660
+"../../../Engine/Content/Tutorial/SubEditors/MaterialEditorTutorial.uasset" 1661
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 1662
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintInterfacesEditorOverview.uasset" 1663
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintInterface_64x.uasset" 1664
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Interface.uasset" 1665
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 1666
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 1667
+"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uasset" 1668
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_Editor_Preferences_General_40x.uasset" 1669
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 1670
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 1671
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 1672
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 1673
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 1674
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 1675
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 1676
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 1677
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 1678
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 1679
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 1680
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 1681
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 1682
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 1683
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 1684
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 1685
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 1686
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 1687
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 1688
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 1689
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 1690
+"D:/Workspace/Unreal Projects/TestTower/Content/Models/GenericMale.uasset" 1691
+"D:/Workspace/Unreal Projects/TestTower/Content/Models/GenericMale_PhysicsAsset.uasset" 1692
+"D:/Workspace/Unreal Projects/TestTower/Content/Models/GenericMale_Skeleton.uasset" 1693
+"D:/Workspace/Unreal Projects/TestTower/Content/Models/HeroFPP.uasset" 1694
+"D:/Workspace/Unreal Projects/TestTower/Content/Models/HeroFPP_PhysicsAsset.uasset" 1695
+"C:/Users/Sean/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/7/STATICMESH_8A752B9E4A904F25B0AB9D65A70A8BDC_228332BAE0224DD294E232B87D83948F1$__0A44047C9FFC6DB704ADA30197BDFD43C1B4FECA.udd" 1696
+"C:/Users/Sean/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/4/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_5EDEF6DA4DB704CE7__5A304E728A75861A578DFB358AD3F73B0B481749.udd" 1697
+"C:/Users/Sean/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/4/PHYSX_3B0AB674B19F4A698B28F7025C031EA2_PHYSXPC_5EDEF6DA4DB704CE70BF5BB9FD0C0CC__20949F50748D7C3C852BED85D3B1BDB115E99D6C.udd" 1698
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 1699
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 1700
+"C:/Users/Sean/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_1463E37F4DC12B581DBA29A845EC4__371D7B6AED2C55CA1546F3910EDE4D8B5E7F2C82.udd" 1701
+"C:/Users/Sean/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/2/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_1463E37F4DC12B581DBA29A845EC4__B1010B43ECC380A0F737763D35C3A65D1FFC7BA2.udd" 1702
+"C:/Users/Sean/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_CD723AC947B75012D68574B69F0B7__E48ED98A2C081EA2CC0E54DD90592F90FC7CC9F0.udd" 1703
+"C:/Users/Sean/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_1463E37F4DC12B581DBA29A845EC4__DEA116FBC45057EA48F53B6953ED83A37F129BE2.udd" 1704
+"C:/Users/Sean/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/7/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_205724904691A573198C6BA9DECA22C5__35ACD7E3212E182C41FA607558874C82360F8C17.udd" 1705
+"C:/Users/Sean/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/2/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_205724904691A573198C6BA9DECA22C5__98DA48DB8C8772EF2433FBBB0009F294C668E763.udd" 1706
+"C:/Users/Sean/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/0/5/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_205724904691A573198C6BA9DECA22C5__CC130A21BD353DC97071D1C562C6B254FE8A251B.udd" 1707
+"C:/Users/Sean/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/0/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_8E740D58438E66710106AF869A36472B_0__81A1520F731AE8BC8675ABFC025B688490D203C8.udd" 1708
+"C:/Users/Sean/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/2/9/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_AC41E11D440E79FAE26ED39D1C3ABFC5__74EB66B4EE2F02FF3B5FC349BDA0F10BCE1146A4.udd" 1709
+"C:/Users/Sean/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/9/4/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_8E740D58438E66710106AF869A36472B_0__0EF4E4E1B955ECBE7A8620E720B3D74D2E71CE93.udd" 1710
+"C:/Users/Sean/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/7/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_0626645D463C4CE44D83FBB8980A3A6C_0__4BF5B579E71B683FBF44F06133DF4CBC8D102171.udd" 1711
+"C:/Users/Sean/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/4/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_8E740D58438E66710106AF869A36472B_0__6CBE7D24D4109006013B055D6DC5D6416B6641E2.udd" 1712
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 1713
+"C:/Users/Sean/AppData/Local/Temp/UnrealShaderWorkingDir/11C4545245A3A59E25A37AB1F1B9E91A/0/WorkerOutputOnly.out" 1714
+"C:/Users/Sean/AppData/Local/Temp/UnrealShaderWorkingDir/11C4545245A3A59E25A37AB1F1B9E91A/1/WorkerOutputOnly.out" 1715
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 1716
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 1717
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 1718
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 1719
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 1720
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 1721
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 1722
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 1723
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 1724
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 1725
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 1726
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 1727
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 1728
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 1729
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 1730
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 1731
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 1732
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 1733
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 1734
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 1735
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 1736
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 1737
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 1738
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 1739
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 1740
+"../../../Engine/Content/Maps/Entry.umap" 1741
+"C:/Users/Sean/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/4/1/STATICMESH_8A752B9E4A904F25B0AB9D65A70A8BDC_228332BAE0224DD294E232B87D83948F1$__3C1730D27267F3282A2C9CF507E7C509C4D3A1C7.udd" 1742
+"C:/Users/Sean/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/1/0/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_59F7C00C48A1A7D9F__D0EBBEF0B9244F1501910118D6C4F93E88631E1A.udd" 1743
+"C:/Users/Sean/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/3/8/PHYSX_3B0AB674B19F4A698B28F7025C031EA2_PHYSXPC_59F7C00C48A1A7D9F20B0CB50FF1759__B2B6013DAB19F1913672D8E6E62C3A19451E8642.udd" 1744
+"C:/Users/Sean/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/7/STATICMESH_8A752B9E4A904F25B0AB9D65A70A8BDC_228332BAE0224DD294E232B87D83948F1$__3B0884DA3933AB8A98F284910B286843CBE1EAC6.udd" 1745
+"C:/Users/Sean/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/1/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_0D8AAD914A776C666__C63EA29AB6E21D8054F6FE3090598DA07FE30101.udd" 1746
+"C:/Users/Sean/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/0/6/PHYSX_3B0AB674B19F4A698B28F7025C031EA2_PHYSXPC_0D8AAD914A776C66687D60B2CEFFB4F__A8F28747D7252D7D3B02DE1697522548238771CF.udd" 1747
+"D:/Workspace/Unreal Projects/TestTower/Content/WorldGridMaterial.uasset" 1748
+"D:/Workspace/Unreal Projects/TestTower/Content/proxy_geo_body_m.uasset" 1749
+"D:/Workspace/Unreal Projects/TestTower/Content/lambert2.uasset" 1750
+"D:/Workspace/Unreal Projects/TestTower/Content/HeroFPP_PhysicsAsset.uasset" 1751
+"D:/Workspace/Unreal Projects/TestTower/Content/HeroFPP.uasset" 1752
+"D:/Workspace/Unreal Projects/TestTower/Content/GenericMale_Skeleton.uasset" 1753
+"D:/Workspace/Unreal Projects/TestTower/Content/GenericMale_PhysicsAsset.uasset" 1754
+"D:/Workspace/Unreal Projects/TestTower/Content/GenericMale.uasset" 1755
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Manage_Mode.uasset" 1756
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Sculpt_Mode.uasset" 1757
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Painting_Mode.uasset" 1758
+"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimBlueprintEditorWalkthrough.uasset" 1759
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_AnimBlueprint.uasset" 1760
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialCharacter.uasset" 1761
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset" 1762
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Mat.uasset" 1763
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_PhysicsAsset.uasset" 1764
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintMacroLibrariesEditorOverview.uasset" 1765
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintMacroLibrary_64x.uasset" 1766
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_MacroLib.uasset" 1767
+"../../../Engine/Content/Tutorial/Paper2D/FlipbookEditorTutorial.uasset" 1768
+"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DFlipbook_TutorialIcon.uasset" 1769
+"../../../Engine/Content/Tutorial/Landscape/LandscapeWalkThrough.uasset" 1770
+"../../../Engine/Content/Tutorial/SubEditors/ParticleSystemEditorTutorial.uasset" 1771
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.uasset" 1772
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody.uasset" 1773
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_SmokeSubUV_8X8.uasset" 1774
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_soft_smoke.uasset" 1775
+"../../../Engine/Content/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview.uasset" 1776
