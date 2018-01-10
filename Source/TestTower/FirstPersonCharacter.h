@@ -43,7 +43,20 @@ public:
     UFUNCTION()
     void StopJump();
 
+    UFUNCTION()
+    void StartSprint();
+
+    UFUNCTION()
+    void StopSprint();
+
     UPROPERTY(VisibleAnywhere)
     UCameraComponent* FirstPersonCameraComponent;
+
+    UPROPERTY(VisibleDefaultsOnly, Category = Mesh)
+    USkeletalMeshComponent* FirstPersonMesh;
+
+private:
+    float DefaultMaxWalkSpeed;
+    float SprintModifier = 2.0f;
 	
 };

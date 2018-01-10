@@ -2,6 +2,9 @@
 
 #include "FirstPersonCharacter.h"
 #include "Camera/CameraComponent.h"
+#include "Components/CapsuleComponent.h"
+#include "Components/SkeletalMeshComponent.h"
+#include "GameFramework/CharacterMovementComponent.h"
 
 
 // Sets default values
@@ -16,12 +19,25 @@ AFirstPersonCharacter::AFirstPersonCharacter()
     FirstPersonCameraComponent = CreateDefaultSubobject<UCameraComponent>(TEXT("FirstPersonCamera"));
 
     // Adjust position of camera
-    FirstPersonCameraComponent->SetRelativeLocation(FVector(0.0f, 0.0f, 50.0f + BaseEyeHeight));
+    FirstPersonCameraComponent->SetRelativeLocation(FVector(0.0f, 0.0f, 40.0f + BaseEyeHeight));
 
     FirstPersonCameraComponent->bUsePawnControlRotation = true;
 
     // Attach the camera to our capsule
     FirstPersonCameraComponent->SetupAttachment(GetCapsuleComponent());
+
+    // Create first person mesh component for the owning player
+    FirstPersonMesh = CreateDefaultSubobject<USkeletalMeshComponent>(TEXT("FirstPersonMesh"));
+
+    FirstPersonMesh->SetOnlyOwnerSee(true);
+    FirstPersonMesh->SetupAttachment(FirstPersonCameraComponent);
+    FirstPersonMesh->bCastDynamicShadow = false;
+    FirstPersonMesh->CastShadow = false;
+
+    GetMesh()->SetOwnerNoSee(true);
+
+    // Initialize the can crouch property
+    GetCharacterMovement()->GetNavAgentPropertiesRef().bCanCrouch = true;
 
 }
 
@@ -34,6 +50,10 @@ void AFirstPersonCharacter::BeginPlay()
     {
         GEngine->AddOnScreenDebugMessage(-1, 5.0f, FColor::Red, TEXT("Now using FirstPersonCharacter"));
     }
+
+    // Get the max walk speed of the player
+    DefaultMaxWalkSpeed = GetCharacterMovement()->MaxWalkSpeed;
+
 }
 
 // Called every frame
@@ -59,6 +79,8 @@ void AFirstPersonCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInp
     // Setup "action" bindings
     PlayerInputComponent->BindAction("Jump", IE_Pressed, this, &AFirstPersonCharacter::StartJump);
     PlayerInputComponent->BindAction("Jump", IE_Released, this, &AFirstPersonCharacter::StopJump);
+    PlayerInputComponent->BindAction("Sprint", IE_Pressed, this, &AFirstPersonCharacter::StartSprint);
+    PlayerInputComponent->BindAction("Sprint", IE_Released, this, &AFirstPersonCharacter::StopSprint);
 
 }
 
@@ -82,4 +104,14 @@ void AFirstPersonCharacter::StartJump()
 void AFirstPersonCharacter::StopJump()
 {
     bPressedJump = false;
+}
+
+void AFirstPersonCharacter::StartSprint()
+{
+    GetCharacterMovement()->MaxWalkSpeed = DefaultMaxWalkSpeed * SprintModifier;
+}
+
+void AFirstPersonCharacter::StopSprint()
+{
+    GetCharacterMovement()->MaxWalkSpeed = DefaultMaxWalkSpeed;
 }
