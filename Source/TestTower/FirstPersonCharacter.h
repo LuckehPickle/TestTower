@@ -57,6 +57,6 @@ public:
 
 private:
     float DefaultMaxWalkSpeed;
-    float SprintModifier = 2.0f;
+    float SprintModifier = 1.5f;
 	
 };

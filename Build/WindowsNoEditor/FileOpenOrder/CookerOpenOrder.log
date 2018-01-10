@@ -254,5 +254,8 @@
 "../../../TestTower/Content/GenericMale_PhysicsAsset.uasset" 253
 "../../../TestTower/Content/GenericMale_Skeleton.uasset" 254
 "../../../TestTower/Content/GenericMale.uasset" 255
-"../../../TestTower/Content/Maps/FPSMap.umap" 256
-"../../../Engine/Content/Maps/Entry.umap" 257
+"../../../TestTower/Content/WorldGridMaterial.uasset" 256
+"../../../TestTower/Content/HeroFPP_PhysicsAsset.uasset" 257
+"../../../TestTower/Content/HeroFPP.uasset" 258
+"../../../TestTower/Content/Maps/FPSMap.umap" 259
+"../../../Engine/Content/Maps/Entry.umap" 260
